@@ -1,0 +1,6 @@
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\bin\Debug\Contact.Data.dll
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\bin\Debug\Contact.Data.pdb
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\obj\Debug\Contact.Data.csprojResolveAssemblyReference.cache
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\obj\Debug\Contact.Data.csproj.CoreCompileInputs.cache
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\obj\Debug\Contact.Data.dll
+C:\Users\QTPaw\source\repos\SimpleWebAPI\Contact.Data\obj\Debug\Contact.Data.pdb
